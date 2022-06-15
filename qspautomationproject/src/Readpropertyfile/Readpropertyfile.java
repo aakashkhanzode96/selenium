@@ -28,7 +28,7 @@ public class Readpropertyfile {
 	    	 return value;
 		
 		
-		
+		akk
 		
 	}
 
